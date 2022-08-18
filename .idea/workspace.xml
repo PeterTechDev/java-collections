@@ -36,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestaAlunos">
+  <component name="RunManager" selected="Application.TestaPerformance">
     <configuration name="TestaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.petertech.TestaAlunos" />
       <module name="java-collections" />
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestandoListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.petertech.TestandoListas" />
+    <configuration name="TestaPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.petertech.TestaPerformance" />
       <module name="java-collections" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaPerformance" />
         <item itemvalue="Application.TestaAlunos" />
         <item itemvalue="Application.TestaCurso2" />
         <item itemvalue="Application.TestaCurso" />
         <item itemvalue="Application.TestaListaDeAula" />
-        <item itemvalue="Application.TestandoListas" />
       </list>
     </recent_temporary>
   </component>
