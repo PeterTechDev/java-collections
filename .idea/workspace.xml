@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88dc8d01-7897-4a33-b40b-e2dc29749c99" name="Changes" comment="add classe que cronometra a compara a performance entre HashSet e ArrayList">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/petertech/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/petertech/Curso.java" afterDir="false" />
-    </list>
+    <list default="true" id="88dc8d01-7897-4a33-b40b-e2dc29749c99" name="Changes" comment="add class aluno e seu teste e ainda aplica o Set no modelo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660793400376</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add class aluno e seu teste e ainda aplica o Set no modelo">
+      <created>1660794382796</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660794382796</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +181,7 @@
     <MESSAGE value="add classe cursos, linkedList e novo metodo" />
     <MESSAGE value="add class Testa Alunos e exemplo de Set" />
     <MESSAGE value="add classe que cronometra a compara a performance entre HashSet e ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="add classe que cronometra a compara a performance entre HashSet e ArrayList" />
+    <MESSAGE value="add class aluno e seu teste e ainda aplica o Set no modelo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class aluno e seu teste e ainda aplica o Set no modelo" />
   </component>
 </project>
