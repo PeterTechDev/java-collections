@@ -1,18 +1,20 @@
 package br.com.petertech;
 
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class Curso {
     private String nome;
     private String instrutor;
     private List<Aula> aulas = new LinkedList<>(); //usando List no lugar de ArrayList para esconder o conteudo
+    private Set<Aluno> alunos = new HashSet<>();
 
     public List<Aula> getAulas() {
         return Collections.unmodifiableList(aulas);
     }
 
+    public Set<Aluno> getAlunos() {
+        return Collections.unmodifiableSet(alunos);
+    }
     public String getNome() {
         return nome;
     }
@@ -37,5 +39,9 @@ public class Curso {
     @Override
     public String toString() {
         return "[Curso:"+ this.getNome()+",tempo total:"+ this.getTempoTotal()+ ", aulas: ["+ this.aulas+"] ]";
+    }
+
+    public void matricular(Aluno aluno) {
+        this.alunos.add(aluno);
     }
 }

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88dc8d01-7897-4a33-b40b-e2dc29749c99" name="Changes" comment="add classe cursos, linkedList e novo metodo">
+    <list default="true" id="88dc8d01-7897-4a33-b40b-e2dc29749c99" name="Changes" comment="add classe que cronometra a compara a performance entre HashSet e ArrayList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/petertech/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/petertech/Curso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestaPerformance">
+  <component name="RunManager" selected="Application.TestaCursoComAluno">
     <configuration name="TestaAlunos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.petertech.TestaAlunos" />
       <module name="java-collections" />
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaListaDeAula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.petertech.TestaListaDeAula" />
+    <configuration name="TestaCursoComAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.petertech.TestaCursoComAluno" />
       <module name="java-collections" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestaPerformance" />
-        <item itemvalue="Application.TestaAlunos" />
-        <item itemvalue="Application.TestaCurso2" />
-        <item itemvalue="Application.TestaCurso" />
-        <item itemvalue="Application.TestaListaDeAula" />
+        <item itemvalue="Application.TestaCursoComAluno" />
+        <item itemvalue="Application.br.com.petertech.TestaPerformance" />
+        <item itemvalue="Application.br.com.petertech.TestaAlunos" />
+        <item itemvalue="Application.br.com.petertech.TestaCurso2" />
+        <item itemvalue="Application.br.com.petertech.TestaCurso" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660787369502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add class Testa Alunos e exemplo de Set">
+      <created>1660793196685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660793196685</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add classe que cronometra a compara a performance entre HashSet e ArrayList">
+      <created>1660793400376</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660793400376</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +175,8 @@
     <MESSAGE value="testando funções como add, remove e sort" />
     <MESSAGE value="usando compareTo" />
     <MESSAGE value="add classe cursos, linkedList e novo metodo" />
-    <option name="LAST_COMMIT_MESSAGE" value="add classe cursos, linkedList e novo metodo" />
+    <MESSAGE value="add class Testa Alunos e exemplo de Set" />
+    <MESSAGE value="add classe que cronometra a compara a performance entre HashSet e ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="add classe que cronometra a compara a performance entre HashSet e ArrayList" />
   </component>
 </project>
